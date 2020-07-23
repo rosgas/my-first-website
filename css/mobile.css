@@ -1,0 +1,130 @@
+/* Test */
+/* body {
+  display: none;
+} */
+
+/* Navbar */
+#navbar .logo {
+  float: none;
+  text-align: center;
+}
+#navbar ul {
+  float: none;
+  margin-bottom: 10px;
+}
+#navbar ul li {
+  float: none;
+}
+#navbar ul li a {
+  padding: 5px;
+  border-bottom: #444 dotted 1px;
+}
+/* Showcase */
+#showcase {
+  height: 100%;
+  top: 150px;
+  background: url("../img/showcase.png") no-repeat top center/cover;
+}
+#showcase .showcase-content {
+  position: unset;
+  margin: auto;
+  left: 150px;
+}
+#showcase .showcase-content h1 {
+  font-size: 40px;
+  line-height: 1em;
+  padding-top: 20px;
+}
+#showcase .showcase-content p {
+  line-height: 1.3em;
+  font-size: 16px;
+}
+/* Home info */
+#home-info {
+  height: 370px;
+  padding-top: 20px;
+}
+#home-info .info-img {
+  display: none;
+}
+#home-info .info-content {
+  float: none;
+  width: 100%;
+  text-align: center;
+  padding: 30px;
+}
+#home-info .info-content {
+  padding-top: 20px;
+}
+#home-info .info-content p {
+  padding: 0 20px 20px 20px;
+}
+/* Boxes */
+.box {
+  float: none;
+  width: 100%;
+  margin-bottom: 0;
+}
+/* About Info */
+#about-info {
+  top: 170px;
+}
+#about-info .info-right,
+#about-info .info-left {
+  float: none;
+  width: 100%;
+}
+.l-heading {
+  text-align: center;
+}
+#about-info .info-right {
+  margin-top: 30px;
+}
+/* Testimonials */
+#testimonials {
+  padding-top: 80px;
+  height: unset;
+}
+
+#testimonials h2 {
+}
+
+/* Contact */
+#contact-form {
+  top: 170px;
+}
+#contact-form .container {
+  background: url(../img/contact-page.png) no-repeat center center/cover;
+  padding: 30px;
+  width: 100%;
+}
+#contact-info .box {
+  border-bottom: 1px dotted #444;
+}
+#contact-form input,
+#contact-form textarea {
+  width: 100%;
+}
+#contact-form .info-left {
+  background: rgb(39, 55, 70, 0.7);
+  color: #fff;
+  padding: 30px;
+  float: none;
+  width: 90%;
+  margin: auto;
+  margin-top: 50px;
+}
+#contact-form .info-left h1 {
+  text-align: left;
+  padding-top: 10px;
+}
+#contact-form .info-right img {
+  display: none;
+}
+
+#contact-info {
+  margin-top: 200px;
+}
+#contact-info .box:first-child {
+  margin-top: 10px;
+}
